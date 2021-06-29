@@ -1,6 +1,7 @@
 # Tag_Generator
 Tag_Gererator will create a Markdown file which contains all tags in your works.
 The generotar supports multi-tags as well as multi-level tag.
+Each tag within the tag file could link to its orginary file and user could open with a single click.
 
 # Environment
 You need Python3 installed in order to use this tool. To check your current Python version, run code below in your terminal:
